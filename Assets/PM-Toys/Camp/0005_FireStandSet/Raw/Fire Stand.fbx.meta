@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 396d3fe2f6d06f64fa50d3859bd8a89f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fire Stand_A
+    100004: Fire Stand_A_maki
+    100006: Fire Stand_B
+    100008: Fire Stand_B_maki
+    100010: Fire Stand_C
+    100012: Fire Stand_C_maki
+    100014: Fire Stand_D
+    100016: 'Fire Stand_D_maki '
+    100018: maki
+    400000: //RootNode
+    400002: Fire Stand_A
+    400004: Fire Stand_A_maki
+    400006: Fire Stand_B
+    400008: Fire Stand_B_maki
+    400010: Fire Stand_C
+    400012: Fire Stand_C_maki
+    400014: Fire Stand_D
+    400016: 'Fire Stand_D_maki '
+    400018: maki
+    2100000: FireStand
+    2100002: FireWood
+    2300000: Fire Stand_A
+    2300002: Fire Stand_A_maki
+    2300004: Fire Stand_B
+    2300006: Fire Stand_B_maki
+    2300008: Fire Stand_C
+    2300010: Fire Stand_C_maki
+    2300012: Fire Stand_D
+    2300014: 'Fire Stand_D_maki '
+    2300016: maki
+    3300000: Fire Stand_A
+    3300002: Fire Stand_A_maki
+    3300004: Fire Stand_B
+    3300006: Fire Stand_B_maki
+    3300008: Fire Stand_C
+    3300010: Fire Stand_C_maki
+    3300012: Fire Stand_D
+    3300014: 'Fire Stand_D_maki '
+    3300016: maki
+    4300000: Fire Stand_A
+    4300002: Fire Stand_B
+    4300004: Fire Stand_C
+    4300006: Fire Stand_D
+    4300008: maki
+    4300010: Fire Stand_A_maki
+    4300012: Fire Stand_B_maki
+    4300014: 'Fire Stand_D_maki '
+    4300016: Fire Stand_C_maki
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireStand
+    second: {fileID: 2100000, guid: c857031c8f0de6440999f11adf64d728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireWood
+    second: {fileID: 2100000, guid: 3a9acc6329f6d7c4a94fad8ee9fdb534, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
