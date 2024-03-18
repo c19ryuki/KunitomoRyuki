@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/sce/takibi.unity
+    guid: 17d7aca62f26a8f4193db18307c2e13a
+  - enabled: 1
+    path: Assets/sce/title.unity
+    guid: 5e9e2e61508e455418fc09d06090293b
+  - enabled: 1
+    path: Assets/sce/wakking.unity
+    guid: 9e0834c8866c0e24a8eea2aa685db58f
+  - enabled: 1
+    path: Assets/sce/wakking2.unity
+    guid: 09309714694202647aa102a7ca2a3a62
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: a10981b22d8549141863c133730b57ec, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 2218f4dc858ee1a4a84af00035382dc1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 200f61950c47a4941b5ec123bec3f8ff, type: 2}
